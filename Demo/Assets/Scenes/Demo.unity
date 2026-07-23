@@ -457,8 +457,8 @@ GameObject:
   - component: {fileID: 577165194}
   - component: {fileID: 577165193}
   - component: {fileID: 577165196}
-  - component: {fileID: 577165197}
   - component: {fileID: 577165198}
+  - component: {fileID: 577165197}
   m_Layer: 0
   m_Name: DemoPlayer
   m_TagString: Player
